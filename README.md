@@ -1,1 +1,2 @@
-
+# SENTIMENT ANALYSIS
+Sentiment analysis is the act of analysing words to determine sentiments and opinions that may be positive or negative in polarity.In this data science project, I have used Python to build a BERT model that can analyse sentiments from tweets - positive, negative and neutral. The dataset assumes that any tweet with positive emoticons, as :), were positive, and tweets with negative emoticons, as :(, were negative.
